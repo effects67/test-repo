@@ -1,0 +1,42 @@
+/* general css*/
+body {
+    background-color:#f3b06d;
+};
+
+
+
+.jumbotron2{
+    background-color:#7e4615;
+};
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* address and footer*/
+address{
+    
+    float:left;
+};
+
+footer{
+    display: block;
+    height: 50px;
+
+};
+
+.navbar{
+    background-color: #c27427
+};
+
+
+.carousel-caption{
+    color:black;
+};
+
+
+.bio{
+    float: center;
+    border: 3px solid black;
+    border-radius: 5px;
+}
